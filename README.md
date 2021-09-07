@@ -9,6 +9,7 @@ Como primer paso tenemos que importar las librerías necesarias a nuestro códig
 
 # CREACIÓN DE LA CLASE
 Creamos la clase Ejercicio2A_Puntos declarando al inicio tres variables estáticas y a la vez haciendo uso de la interfaz GLEventListener .
+
 ![image](https://user-images.githubusercontent.com/72058362/132414200-dea35945-0c14-4005-8aae-377068b64234.png)
 
 # MÉTODO MAIN 
