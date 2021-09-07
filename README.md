@@ -13,10 +13,12 @@ Creamos la clase Ejercicio2A_Puntos declarando al inicio tres variables estátic
 
 # MÉTODO MAIN 
 Damos inicio a la creación del método main o método principal en el cual ejecutamos un JFrame, ponemos las medidas características de nuestra pantalla, creamos un hilo para detener la animación y pedimos que cuando ejecutemos nuestro programa la venta se ejecute en su tamaño máximo. 
+
 ![image](https://user-images.githubusercontent.com/72058362/132414249-cb363a37-7e56-4daf-8e45-1089bc8a75ea.png)
 
 # MÉTODO INIT
 En esta parte del código podemos observar el método init, este método lo que haces es que inicializa un objeto y nosotros lo ocupamos para la creación de los gráficos de OpenGL.
+
 ![image](https://user-images.githubusercontent.com/72058362/132414308-5c6aaa9f-53f1-42e9-a4c5-55937a72394e.png)
   
 # MÉTODO RESHAPE
